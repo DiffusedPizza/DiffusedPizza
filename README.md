@@ -18,7 +18,7 @@ I'm a f
 
 📫 Let's connect! Reach out for discussions, projects, or to share insights. I'm always open to new opportunities and eager to learn and grow.
 
-🌐 Explore my work and connect with me on www.rubenlizardi.dev
+🌐 Explore my work and connect with me at www.rubenlizardi.dev
 
 Let's code, innovate, and learn together!
 
