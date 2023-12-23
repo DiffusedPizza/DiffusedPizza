@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Lizardi</h1>
-<h3 align="center">A passionate frontend developer from Arizona</h3>
+<h3 align="center">A passionate FullStack developer from Arizona</h3>
 
 - 🔭 I’m currently working on [CozyCircles](https://github.com/DiffusedPizza/CozyCircles)
 
